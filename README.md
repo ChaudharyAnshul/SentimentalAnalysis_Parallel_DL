@@ -1,1 +1,1 @@
-# SentimentalAnalysis_Parallel_DL
+# Sentimental Analysis Using Parallel DeepLearning Using PyTorch
